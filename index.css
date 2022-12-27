@@ -240,16 +240,19 @@ body .second .overall .box1:hover .img2 {
 @media (max-width: 1295px) {
   body .second .overall .box1 {
     width: 55%;
+    height: 80%;
   }
 }
 @media (max-width: 967px) {
   body .second .overall .box1 {
     width: 65%;
+    height: 70%;
   }
 }
 @media (max-width: 850px) {
   body .second .overall .box1 {
     width: 70%;
+    height: 50%;
   }
 }
 body .third {
@@ -398,16 +401,19 @@ body .third .overall .box1:hover .img2 {
 @media (max-width: 1295px) {
   body .third .overall .box1 {
     width: 55%;
+    height: 80%;
   }
 }
 @media (max-width: 967px) {
   body .third .overall .box1 {
     width: 65%;
+    height: 70%;
   }
 }
 @media (max-width: 850px) {
   body .third .overall .box1 {
     width: 70%;
+    height: 50%;
   }
 }
 body .forth {
@@ -556,16 +562,19 @@ body .forth .overall .box1:hover .img2 {
 @media (max-width: 1295px) {
   body .forth .overall .box1 {
     width: 55%;
+    height: 80%;
   }
 }
 @media (max-width: 967px) {
   body .forth .overall .box1 {
     width: 65%;
+    height: 70%;
   }
 }
 @media (max-width: 850px) {
   body .forth .overall .box1 {
     width: 70%;
+    height: 50%;
   }
 }
 body .fiveth {
@@ -716,15 +725,18 @@ body .fiveth .overall .box1:hover .img2 {
 @media (max-width: 1295px) {
   body .fiveth .overall .box1 {
     width: 55%;
+    height: 80%;
   }
 }
 @media (max-width: 967px) {
   body .fiveth .overall .box1 {
     width: 65%;
+    height: 70%;
   }
 }
 @media (max-width: 850px) {
   body .fiveth .overall .box1 {
     width: 70%;
+    height: 50%;
   }
 }/*# sourceMappingURL=index.css.map */
